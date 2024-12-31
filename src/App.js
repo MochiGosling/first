@@ -1,14 +1,12 @@
 
 import './App.css';
-import Isha from './isha';
-import Family from './family.js';
+import Family from './Family.js';
 
 function App() {
   return (
     <div>
     <h1> Welcome ! </h1>
     <Family></Family>
-    <Isha></Isha>
     </div>
   )
 }

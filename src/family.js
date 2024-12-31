@@ -1,7 +1,7 @@
-import './family.css';
-import Isha from './isha.js';
-import Satish from './satish.js';
-import Hema from './hema.js';
+
+import Isha from './Isha.js';
+import Satish from './Satish.js';
+import Hema from './Hema.js';
 import Adi from './Adi.js';
 
 
@@ -14,6 +14,5 @@ function Family() {
         <Hema></Hema>
     </div>
   )
-};
-
+}
 export default Family;
